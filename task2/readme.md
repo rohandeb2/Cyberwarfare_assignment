@@ -77,7 +77,6 @@ curl http://localhost:8000
 <div align="center">
   <img src="img/13.png" >
 </div>
----
 
 ## Result
 - Docker installed and configured
