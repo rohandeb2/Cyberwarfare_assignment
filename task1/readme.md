@@ -59,7 +59,9 @@ ssh rohan_deb@localhost
 
 ## Output
 
-
+<div align="center">
+  <img src="img/11.png" >
+</div>
 
 ---
 
