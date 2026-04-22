@@ -72,10 +72,10 @@ curl http://localhost:8000
 
 ## Output
 <div align="center">
-  <img src="img/12.png" >
+  <img src="../img/12.png" >
 </div>
 <div align="center">
-  <img src="img/13.png" >
+  <img src="../img/13.png" >
 </div>
 
 ## Result
