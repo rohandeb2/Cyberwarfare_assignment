@@ -46,7 +46,7 @@ Added:
 ## Output
 
 <div align="center">
-  <img src="img/17.png" >
+  <img src="../img/17.png" >
 </div>
 
 ## Result
